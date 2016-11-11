@@ -7,7 +7,11 @@
     "syntax",
     "theme",
     "material",
-    "material design"
+    "material design",
+    "palenight",
+    "night",
+    "google",
+    "elegant"
   ],
   "repository": "https://github.com/atom/material-palenight-syntax",
   "license": "MIT",
