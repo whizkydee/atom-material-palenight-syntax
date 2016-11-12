@@ -1,7 +1,7 @@
 {
   "name": "material-palenight-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An elegant theme for Atom that uses a forked version of Google's MDL color palette",
   "keywords": [
     "syntax",
