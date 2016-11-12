@@ -14,23 +14,23 @@ Or, inside Atom's settings select Install and then search for this syntax theme.
 Some UI themes that best match this syntax theme.
 
 ### **[Atom Material UI](https://atom.io/themes/atom-material-ui)**
-![JavaScript code](https://i.imgur.com/)
+![JavaScript code](http://i.imgur.com/yZJityx.png)
 JavaScript syntax highlight
 
-![SCSS code](https://i.imgur.com/)
+![SCSS code](http://i.imgur.com/uthbvEH.png)
 SCSS syntax highlight
 
-![Markdown code](https://i.imgur.com/)
+![Markdown code](http://i.imgur.com/EbmmaZK.png)
 Markdown syntax highlight
 
 ### **[One Dark UI](https://atom.io/themes/one-dark-ui)**
-![JavaScript code](https://i.imgur.com/)
+![JavaScript code](http://i.imgur.com/1Z4EtOF.png)
 JavaScript syntax highlight
 
-![SCSS code](https://i.imgur.com/)
+![SCSS code](http://i.imgur.com/zt159TT.png)
 SCSS syntax highlight
 
-![Markdown code](https://i.imgur.com/)
+![Markdown code](http://i.imgur.com/TKVfwkm.png)
 Markdown syntax highlight
 
 
