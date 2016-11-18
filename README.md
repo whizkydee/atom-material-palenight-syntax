@@ -1,6 +1,6 @@
 # Atom Material Palenight Syntax
 
-:new_moon: An elegant theme for Atom that uses a forked version of Google's MDL color palette.
+:new_moon: An elegant and minimal material syntax theme for Atom.
 
 ## Installation
 Launch a console and type:
