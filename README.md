@@ -3,7 +3,7 @@
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
 ## Installation
-Launch a console and type:
+If you're a terminal guru, Launch a console and type:
 ```shell
 apm install material-palenight-syntax
 ```
@@ -11,30 +11,15 @@ apm install material-palenight-syntax
 Or, inside Atom's settings select Install and then search for this syntax theme.
 
 ## Suggested UI Themes
-Some UI themes that best match this syntax theme.
+Some UI themes that work best with this syntax theme.
 
-### **[Atom Material UI](https://atom.io/themes/atom-material-ui)**
-![JavaScript code](http://i.imgur.com/yZJityx.png)
-JavaScript syntax highlight
+* [Atom Material UI][1]
+* [One Dark UI][2]
 
-![SCSS code](http://i.imgur.com/uthbvEH.png)
-SCSS syntax highlight
+[1]: https://atom.io/themes/atom-material-ui
+[2]: https://atom.io/themes/one-dark-ui
 
-![Markdown code](http://i.imgur.com/EbmmaZK.png)
-Markdown syntax highlight
-
-### **[One Dark UI](https://atom.io/themes/one-dark-ui)**
-![JavaScript code](http://i.imgur.com/1Z4EtOF.png)
-JavaScript syntax highlight
-
-![SCSS code](http://i.imgur.com/zt159TT.png)
-SCSS syntax highlight
-
-![Markdown code](http://i.imgur.com/TKVfwkm.png)
-Markdown syntax highlight
-
-
-> The font used in the screenshots is [Ubuntu Mono](https://github.com/google/fonts/tree/master/ufl/ubuntumono). Icons by [file-icons](https://atom.io/packages/file-icons).
+> The font used in the screenshots is [Fira Code](https://github.com/).
 
 Don't forget to :star: :star:
 
