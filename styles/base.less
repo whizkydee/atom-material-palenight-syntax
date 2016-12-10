@@ -89,10 +89,11 @@ atom-text-editor.is-focused .line.cursor-line,
   color: rgba(199, 146, 234, 1);
 }
 .variable {
-  color: #B2CCD6;
+  color: #ffcb6b;
 }
 // Make JavaScript object properties colored
-.other.object.variable.js.property {
+.other.variable.property,
+.support.variable.property {
   color: #89DDFF;
 }
 .entity.name.function,
@@ -148,19 +149,25 @@ atom-text-editor.is-focused .line.cursor-line,
   color: #a9c77d;
 }
 .constant.numeric {
-  color: #F77669;
+  color: #F78C6C;
 }
 .none {
-  color: #F77669;
+  color: #F78C6C;
 }
 .meta.function-call .meta.function-call.arguments {
   color: #a9c77d;
 }
 .none {
-  color: #F77669;
+  color: #F78C6C;
 }
 .constant {
-  color: #F77669;
+  color: #82AAFF;
+}
+.object {
+  color: #B2CCD6;
+}
+.boolean {
+  color: #ff5874;
 }
 .entity.name.tag,
 .text.html.basic .meta.tag.other.html .entity.other.attribute-name.html {
@@ -178,14 +185,14 @@ atom-text-editor.is-focused .line.cursor-line,
   color: rgba(199, 146, 234, 1);
 }
 .none {
-  color: #F77669;
+  color: #F78C6C;
 }
 .markup.heading .punctuation.definition.heading,
 .entity.name.section {
   color: rgba(120, 204, 240, 1);
 }
 .keyword.other.unit {
-  color: #F77669;
+  color: #F78C6C;
 }
 .markup.bold,
 .punctuation.definition.bold,
@@ -207,13 +214,13 @@ atom-text-editor.is-focused .line.cursor-line,
   color: #ff5370;
 }
 .meta.link {
-  color: #F77669;
+  color: #F78C6C;
 }
 .markup.list {
   color: rgba(255, 83, 112, 1);
 }
 .markup.quote {
-  color: #F77669;
+  color: #F78C6C;
 }
 .meta.separator {
   color: rgba(217, 245, 221, 1);
@@ -236,7 +243,7 @@ atom-text-editor.is-focused .line.cursor-line,
   color: #80CBC4;
 }
 .constant.character.escape {
-  color: #F77669;
+  color: #F78C6C;
 }
 .punctuation.section.embedded,
 .variable.interpolation {
@@ -248,7 +255,7 @@ atom-text-editor.is-focused .line.cursor-line,
 }
 .invalid.broken {
   color: rgba(2, 14, 20, 1);
-  background-color: #F77669;
+  background-color: #F78C6C;
 }
 .invalid.deprecated {
   color: rgba(255, 255, 255, 1);
@@ -333,13 +340,13 @@ atom-text-editor.is-focused .line.cursor-line,
   color: #a9c77d;
 }
 .constant.other.color.rgb-value .punctuation.definition.constant {
-  color: #F77669;
+  color: #F78C6C;
 }
 .meta.attribute-selector .string.unquoted.attribute-value {
   color: #a9c77d;
 }
 .meta.attribute-selector .entity.other.attribute-name.attribute {
-  color: #F77669;
+  color: #F78C6C;
 }
 .source.gulpfile.js .meta.group.braces.round .meta.group.braces.curly .meta.group.braces.round .meta.function-call.with-arguments.js .variable.function.js,
 .source.gulpfile.js .meta.group.braces.round .meta.group.braces.curly .variable.function.js {
@@ -374,7 +381,7 @@ atom-text-editor.is-focused .line.cursor-line,
 .source.elixir .constant.other.symbol.elixir,
 .source.elixir .constant.other.keywords.elixir,
 .source.ruby .constant.other.symbol {
-  color: #F77669;
+  color: #F78C6C;
 }
 .source.elixir .punctuation.definition.string {
   color: #a9c77d;
