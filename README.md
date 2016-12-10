@@ -2,6 +2,9 @@
 
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
+
+![JavaScript Preview](http://i.imgur.com/NSlsvwT.png)
+
 ## Installation
 If you're a terminal guru, Launch a console window and type:
 ```shell
