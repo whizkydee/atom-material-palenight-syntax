@@ -11,3 +11,6 @@
 * Changed constant color highlight
 * Changed boolean color highlight...
 * Other minor changes
+
+## 0.2.0 - Version Bump
+* Version Bump
