@@ -5,8 +5,6 @@
 
 ![JavaScript Preview](http://i.imgur.com/NSlsvwT.png)
 
-![SCSS Preview](http://i.imgur.com/MtHNFIT.png)
-
 ## Installation
 If you're a terminal guru, Launch a console window and type:
 ```shell
