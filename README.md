@@ -5,6 +5,8 @@
 
 ![JavaScript Preview](http://i.imgur.com/NSlsvwT.png)
 
+![SCSS Preview](http://i.imgur.com/MtHNFIT.png)
+
 ## Installation
 If you're a terminal guru, Launch a console window and type:
 ```shell
@@ -25,6 +27,6 @@ Some UI themes that work best with this syntax theme.
 
 > The font used in the screenshots is [Fira Code](https://github.com/).
 
-Don't forget to :star: :star:
+Don't forget to star :star: :star:
 
 Designed with :heart: by [Olaolu](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
