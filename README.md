@@ -3,7 +3,7 @@
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
 ## Installation
-If you're a terminal guru, Launch a console and type:
+If you're a terminal guru, Launch a console window and type:
 ```shell
 apm install material-palenight-syntax
 ```
