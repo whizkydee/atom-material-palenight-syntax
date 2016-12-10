@@ -9,4 +9,5 @@
 * Added better support for objects
 * Changed numeric highlight and others
 * Changed constant color highlight
-* Changed boolean color highlight
+* Changed boolean color highlight...
+* Other minor changes
