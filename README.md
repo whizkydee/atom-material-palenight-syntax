@@ -23,7 +23,7 @@ Some UI themes that work best with this syntax theme.
 [1]: https://atom.io/themes/atom-material-ui
 [2]: https://atom.io/themes/one-dark-ui
 
-> The font used in the screenshots is [Fira Code](https://github.com/).
+> The font used in the screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
 Don't forget to star :star: :star:
 
