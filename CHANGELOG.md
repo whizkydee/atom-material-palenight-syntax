@@ -12,5 +12,5 @@
 * Changed boolean color highlight...
 * Other minor changes
 
-## 0.2.0 - Version Bump
+## 0.2.1 - Version Bump
 * Version Bump
