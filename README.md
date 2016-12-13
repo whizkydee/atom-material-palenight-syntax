@@ -27,4 +27,7 @@ Some UI themes that work best with this syntax theme.
 
 Don't forget to star :star: :star:
 
+### Wanna Contribute?
+Please feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any irregular syntax highlighting of this theme with an attached screenshot.
+
 Designed with :heart: by [Olaolu](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
