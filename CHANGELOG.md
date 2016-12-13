@@ -1,3 +1,10 @@
+## 0.0.0 - Null
+* Was supposed to be the initial release
+* Never existed
+* Wasn't published as a result of the initial `apm publish` mistake I made
+* Got me really pissed
+* Skipped to `v0.1.0`
+
 ## 0.1.0 - First Release
 * Every feature added
 * Every bug fixed
