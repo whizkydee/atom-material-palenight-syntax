@@ -3,7 +3,7 @@
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
 
-![JavaScript Preview](http://i.imgur.com/NSlsvwT.png)
+![JavaScript Preview](http://i.imgur.com/0ZIMf3U.png)
 
 ## Installation
 If you're a guru, Launch a terminal window and type:
