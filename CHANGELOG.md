@@ -11,12 +11,12 @@
 
 ## 0.2.0 - Neat Touches
 * Made JavaScript object properties colored
-* Made darkgreen string color lighter
+* Made dark green string color lighter
 * Changed variable color highlight
 * Added better support for objects
 * Changed numeric highlight and others
 * Changed constant color highlight
-* Changed boolean color highlight...
+* Changed Boolean color highlight...
 * Other minor changes
 
 ## 0.2.1 - Version Bump
