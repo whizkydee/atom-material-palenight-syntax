@@ -17,8 +17,8 @@ Or, inside Atom's settings select Install and then search for this syntax theme.
 
 Some UI themes that work best with this syntax theme.
 
-* [Atom Material UI][1]
-* [One Dark UI][2]
+* [Atom Material UI][1] &ndash; Awesome! 'Twas made for it.
+* [One Dark UI][2] &ndash; Cool.
 
 [1]: https://atom.io/themes/atom-material-ui
 [2]: https://atom.io/themes/one-dark-ui
@@ -28,6 +28,6 @@ Some UI themes that work best with this syntax theme.
 Don't forget to star :star: :star:
 
 ### Wanna Contribute?
-Please feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any irregular syntax highlighting of this theme with an attached screenshot.
+Please feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any suggestions or irregular syntax highlighting of this theme with an attached screenshot.
 
 Designed with :heart: by [Olaolu](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
