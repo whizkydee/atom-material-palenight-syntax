@@ -21,3 +21,12 @@
 
 ## 0.2.1 - Version Bump
 * Version Bump
+
+## 0.2.2 - Highlight fixes
+* Changed the color of `.source.scss` and `.source.sass` variables
+* Changed the color of `null` keywords
+* Changed the default color of `.text, .source` -- raw text
+* Made `.source.scss` and `.source.sass` highlights more precise
+* Changed the color of `.variable.parameter.function`
+* Changed the color of `.source.php` variables...
+* Other minor changes
