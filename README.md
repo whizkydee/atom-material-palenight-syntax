@@ -6,7 +6,7 @@
 ![JavaScript Preview](http://i.imgur.com/0ZIMf3U.png)
 
 ## Installation
-If you're a guru, Launch a terminal window and type:
+If you're a terminal guru, Launch a console window and type:
 ```shell
 apm install material-palenight-syntax
 ```
@@ -17,13 +17,13 @@ Or, inside Atom's settings select Install and then search for this syntax theme.
 
 Some UI themes that work best with this syntax theme.
 
-* [Atom Material UI][1] &ndash; Awesome! 'Twas made for it.
+* [Atom Material UI][1] &ndash; Awesome! 'twas made for it.
 * [One Dark UI][2] &ndash; Cool.
 
 [1]: https://atom.io/themes/atom-material-ui
 [2]: https://atom.io/themes/one-dark-ui
 
-> The font used in the screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
+> The font used in the screenshot is [Fira Code](https://github.com/tonsky/FiraCode).
 
 Don't forget to star :star: :star:
 
