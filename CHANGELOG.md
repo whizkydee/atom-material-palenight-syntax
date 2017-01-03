@@ -30,3 +30,9 @@
 * Changed the color of `.variable.parameter.function`
 * Changed the color of `.source.php` variables...
 * Other minor changes
+
+## 0.2.3 - Little Changes
+* Added Pristine UI to recommended UI themes
+* Made Indent Guide color darker
+* Made invisible character color darker
+* Other minor changes
