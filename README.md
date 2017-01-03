@@ -18,10 +18,12 @@ Or, inside Atom's settings select Install and then search for this syntax theme.
 Some UI themes that work best with this syntax theme.
 
 * [Atom Material UI][1] &ndash; Awesome! 'twas made for it.
-* [One Dark UI][2] &ndash; Cool.
+* [Pristine UI][2] &ndash; Great match.
+* [One Dark UI][3] &ndash; Cool.
 
 [1]: https://atom.io/themes/atom-material-ui
-[2]: https://atom.io/themes/one-dark-ui
+[2]: https://atom.io/themes/pristine-ui
+[3]: https://atom.io/themes/one-dark-ui
 
 > The font used in the screenshot is [Fira Code](https://github.com/tonsky/FiraCode).
 
