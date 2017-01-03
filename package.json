@@ -1,7 +1,7 @@
 {
   "name": "material-palenight-syntax",
   "theme": "syntax",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "An elegant and minimal material syntax theme for Atom",
   "keywords": [
     "syntax",
