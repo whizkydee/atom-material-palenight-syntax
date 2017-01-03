@@ -13,7 +13,7 @@ apm install material-palenight-syntax
 
 Or, inside Atom's settings select Install and then search for this syntax theme.
 
-## Suggested UI Themes
+## Recommended UI Themes
 
 Some UI themes that work best with this syntax theme.
 
