@@ -1,0 +1,36 @@
+[data-grammar*="gfm"] {
+  .syntax--markup.syntax--underline.syntax--link {
+    color: lighten(#ff5370, 10%);
+
+    span.syntax--punctuation {
+      color: #ff5370;
+    }
+  }
+  .syntax--markup.syntax--strike {
+    position: relative;
+    color: fade(@syntax-text-color, 50%);
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: calc(50% + 4px);
+      left: 0;
+      right: 0;
+      height: 1px;
+      background-color: fade(@syntax-text-color, 20%);
+    }
+  }
+  .syntax--table .syntax--border {
+    color: fade(@syntax-text-color, 50%);
+  }
+  .syntax--markup.syntax--heading {
+    color: #82b1ff;
+  }
+  .syntax--punctuation.syntax--definition.syntax--begin,
+  .syntax--punctuation.syntax--definition.syntax--end {
+    color: #82b1ff;
+  }
+  .syntax--punctuation.syntax--definition.syntax--begin + span:not(.syntax--function.syntax--parameter) {
+    color: lighten(#82b1ff, 5%);
+  }
+}
