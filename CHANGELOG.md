@@ -31,9 +31,21 @@
 * Changed the color of `.source.php` variables...
 * Other minor changes
 
-## 0.3.0 - Little Changes
+## 0.3.0
+* Was trying to figure out a bug in my `.gitconfig`
+
+## 0.3.1 - Little Changes
 * Changed the color of `.variable.parameter.function` to a whiter one
 * Added Pristine UI to recommended UI themes
 * Made Indent Guide color darker
 * Made invisible character color darker
+* Other minor changes
+
+## 0.4.0 - Theme Rewrite
+* Re-structured the arrangement of files &ndash; More modules
+* Added the `syntax--` prefix to all language selectors
+* Removed Shadow DOM selectors globally
+* Renamed the GitHub repo for the theme
+* Updated the Atom engine dependency to `>=1.13.0 <2.0.0`
+* Removed `.sublimelinter` selectors globally...
 * Other minor changes

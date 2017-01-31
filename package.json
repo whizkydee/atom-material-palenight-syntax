@@ -13,9 +13,9 @@
     "elegant",
     "minimal"
   ],
-  "repository": "https://github.com/whizkydee/material-palenight-syntax",
+  "repository": "https://github.com/whizkydee/atom-material-palenight-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   }
 }
