@@ -55,3 +55,9 @@
 * Used LESS variables in all language files
 * Tidied `syntax.less` file
 * Tidied all language files
+* Other minor changes
+
+## 0.5.1 - Bug fixes
+* Fixed fake multiple selectors bug
+* Added `syntax--` prefix to .marker selector
+* Other minor changes
