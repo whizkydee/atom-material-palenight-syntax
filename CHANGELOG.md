@@ -49,3 +49,9 @@
 * Updated the Atom engine dependency to `>=1.13.0 <2.0.0`
 * Removed `.sublimelinter` selectors globally...
 * Other minor changes
+
+## 0.5.0
+* Created LESS variables for all syntax color codes
+* Used LESS variables in all language files
+* Tidied `syntax.less` file
+* Tidied all language files
