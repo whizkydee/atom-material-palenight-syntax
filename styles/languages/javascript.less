@@ -1,4 +1,4 @@
-.syntax--source.syntax--js .syntax--meta.syntax--function-call.syntax--method.syntax--without-arguments.syntax--js .syntax--variable.syntax--function.syntax--js {
+.syntax--source.syntax--js, .syntax--meta.syntax--function-call.syntax--method.syntax--without-arguments.syntax--js, .syntax--variable.syntax--function.syntax--js {
   color: @cool-blue;
 }
 .syntax--variable.syntax--language.syntax--this.syntax--js,
@@ -9,6 +9,11 @@
   color: @sea-blue;
 }
 
-.syntax--meta.syntax--group.syntax--braces.syntax--curly.syntax--js .syntax--meta.syntax--property.syntax--object.syntax--js .syntax--variable.syntax--other.syntax--object.syntax--js {
+.syntax--meta.syntax--group.syntax--braces.syntax--curly.syntax--js, .syntax--meta.syntax--property.syntax--object.syntax--js, .syntax--variable.syntax--other.syntax--object.syntax--js {
   color: @lighter-yellow;
+}
+
+.syntax--source.syntax--gulpfile.syntax--js, .syntax--meta.syntax--group.syntax--braces.syntax--round, .syntax--meta.syntax--group.syntax--braces.syntax--curly, .syntax--meta.syntax--group.syntax--braces.syntax--round, .syntax--meta.syntax--function-call.syntax--with-arguments.syntax--js, .syntax--variable.syntax--function.syntax--js,
+.syntax--source.syntax--gulpfile.syntax--js, .syntax--meta.syntax--group.syntax--braces.syntax--round, .syntax--meta.syntax--group.syntax--braces.syntax--curly, .syntax--variable.syntax--function.syntax--js {
+  color: @fading-blue;
 }

@@ -80,9 +80,9 @@ span.syntax--null {
 .syntax--punctuation.syntax--definition.syntax--tag.syntax--begin.syntax--html,
 .syntax--punctuation.syntax--definition.syntax--tag.syntax--end.syntax--html,
 .syntax--meta.syntax--function-call .syntax--meta.syntax--function-call.syntax--arguments .syntax--variable.syntax--parameter.syntax--function,
-.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph .syntax--meta.syntax--link.syntax--inline,
-.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph .syntax--meta.syntax--link.syntax--inline .syntax--punctuation.syntax--definition.syntax--string.syntax--begin.syntax--markdown,
-.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph .syntax--meta.syntax--link.syntax--inline .syntax--punctuation.syntax--definition.syntax--string.syntax--end.syntax--markdown {
+.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph, .syntax--meta.syntax--link.syntax--inline,
+.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph, .syntax--meta.syntax--link.syntax--inline, .syntax--punctuation.syntax--definition.syntax--string.syntax--begin.syntax--markdown,
+.syntax--text.syntax--html.syntax--markdown .syntax--meta.syntax--paragraph, .syntax--meta.syntax--link.syntax--inline, .syntax--punctuation.syntax--definition.syntax--string.syntax--end.syntax--markdown {
   color: @sea-blue;
 }
 .syntax--string,
@@ -177,7 +177,7 @@ span.syntax--null {
   color: @purple;
 }
 .syntax--constant.syntax--other.syntax--color,
-.syntax--meta.syntax--property-value .syntax--support.syntax--constant.syntax--named-color.syntax--css {
+.syntax--meta.syntax--property-value {
   color: @lighter-yellow;
 }
 .syntax--string.syntax--regexp {
@@ -218,11 +218,11 @@ span.syntax--null {
 .syntax--markup.syntax--ignored.syntax--git_gutter {
   color: @cool-grey;
 }
-.syntax--comment.syntax--line.syntax--double-slash .syntax--punctuation.syntax--definition.syntax--comment,
-.syntax--meta.syntax--structure.syntax--array .syntax--comment.syntax--block.syntax--json .syntax--punctuation.syntax--definition.syntax--comment {
+.syntax--comment.syntax--line.syntax--double-slash, .syntax--punctuation.syntax--definition.syntax--comment,
+.syntax--punctuation.syntax--definition.syntax--comment {
   color: @syntax-comment-color;
 }
-.syntax--text.syntax--find-in-files .syntax--entity.syntax--name.syntax--filename.syntax--find-in-files {
+.syntax--text.syntax--find-in-files, .syntax--entity.syntax--name.syntax--filename.syntax--find-in-files {
   color: @lighter-yellow;
 }
 .syntax--support.syntax--type.syntax--property-name {
@@ -231,18 +231,14 @@ span.syntax--null {
 .syntax--meta.syntax--property-list .syntax--meta.syntax--property-name {
   color: @cool-green;
 }
-.syntax--constant.syntax--other.syntax--color.syntax--rgb-value .syntax--punctuation.syntax--definition.syntax--constant {
+.syntax--constant.syntax--other.syntax--color.syntax--rgb-value, .syntax--punctuation.syntax--definition.syntax--constant {
   color: @light-orange;
 }
 .syntax--meta.syntax--attribute-selector .syntax--string.syntax--unquoted.syntax--attribute-value {
   color: @light-green;
 }
-.syntax--meta.syntax--attribute-selector .syntax--entity.syntax--other.syntax--attribute-name.syntax--attribute {
+.syntax--meta.syntax--attribute-selector, .syntax--entity.syntax--other.syntax--attribute-name.syntax--attribute {
   color: @light-orange;
-}
-.syntax--source.syntax--gulpfile.syntax--js .syntax--meta.syntax--group.syntax--braces.syntax--round .syntax--meta.syntax--group.syntax--braces.syntax--curly .syntax--meta.syntax--group.syntax--braces.syntax--round .syntax--meta.syntax--function-call.syntax--with-arguments.syntax--js .syntax--variable.syntax--function.syntax--js,
-.syntax--source.syntax--gulpfile.syntax--js .syntax--meta.syntax--group.syntax--braces.syntax--round .syntax--meta.syntax--group.syntax--braces.syntax--curly .syntax--variable.syntax--function.syntax--js {
-  color: @fading-blue;
 }
 .syntax--meta.syntax--function-call .syntax--support.syntax--type,
 .syntax--support.syntax--type {
@@ -252,11 +248,11 @@ span.syntax--null {
   color: @dark-yellow;
 }
 .syntax--constant.syntax--numeric.syntax--line-number.syntax--find-in-files:not(.syntax--match),
-.syntax--text.syntax--find-in-files .syntax--constant.syntax--numeric.syntax--line-number.syntax--find-in-files {
+.syntax--text.syntax--find-in-files, .syntax--constant.syntax--numeric.syntax--line-number.syntax--find-in-files {
   color: @light-black;
 }
 .syntax--entity.syntax--name.syntax--filename.syntax--find-in-files,
-.syntax--text.syntax--find-in-files .syntax--constant.syntax--numeric.syntax--line-number.syntax--match.syntax--find-in-files {
+.syntax--text.syntax--find-in-files, .syntax--constant.syntax--numeric.syntax--line-number.syntax--match.syntax--find-in-files {
   color: @lighter-yellow;
 }
 
