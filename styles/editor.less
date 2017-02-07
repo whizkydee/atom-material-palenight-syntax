@@ -3,7 +3,7 @@
 atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
-  
+
   &.is-focused {
     .cursor {
       border-color: @syntax-cursor-color;
@@ -18,11 +18,11 @@ atom-text-editor {
       background-color: rgba(0, 0, 0, 0.19);
     }
   }
-  
+
   .gutter {
     background-color: @syntax-gutter-background-color;
     color: @syntax-gutter-text-color;
-    
+
     .line-number {
       .cursor-line {
         background-color: @syntax-gutter-background-color-selected;
@@ -33,7 +33,7 @@ atom-text-editor {
       }
     }
   }
-  
+
   .wrap-guide {
     color: @syntax-wrap-guide-color;
   }
@@ -41,12 +41,12 @@ atom-text-editor {
   .indent-guide {
     color: @syntax-indent-guide-color;
   }
-  
+
   .invisible-character {
     color: @syntax-invisible-character-color;
   }
-  
-  .search-results .marker {
+
+  .search-results .syntax--marker {
     .region {
       background-color: transparent;
       border: @syntax-result-marker-color;
@@ -55,7 +55,7 @@ atom-text-editor {
       border: @syntax-result-marker-color-selected;
     }
   }
-  
+
   .bracket-matcher .region {
     border-bottom: 1px solid @syntax-cursor-color;
     box-sizing: border-box;
