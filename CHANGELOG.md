@@ -61,3 +61,6 @@
 * Fixed fake multiple selectors bug
 * Added `syntax--` prefix to .marker selector
 * Other minor changes
+
+## 0.5.2
+* Version Bump
