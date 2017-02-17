@@ -62,5 +62,5 @@
 * Added `syntax--` prefix to .marker selector
 * Other minor changes
 
-## 0.5.2
+## 0.6.0
 * Version Bump
