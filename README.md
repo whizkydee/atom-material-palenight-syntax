@@ -3,8 +3,8 @@
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
 
-![JavaScript Preview](http://i.imgur.com/0ZIMf3U.png)
-
+![JavaScript Preview](http://i.imgur.com/dMqfuVZ.png)
+<!-- http://i.imgur.com/Wzh5T8Y.png -->
 ## Installation
 If you're a terminal guru, Launch a console window and type:
 ```shell
@@ -25,11 +25,11 @@ Some UI themes that work best with this syntax theme.
 [2]: https://atom.io/themes/pristine-ui
 [3]: https://atom.io/themes/one-dark-ui
 
-> The font used in the screenshot is [Fira Code](https://github.com/tonsky/FiraCode).
+> The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator/).
 
 Don't forget to star :star: :star:
 
 ### Wanna Contribute?
-Please feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any suggestions or irregular syntax highlighting of this theme with an attached screenshot.
+Feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any suggestions or irregular syntax highlighting of this theme with an attached screenshot.
 
 Designed with :heart: by [Olaolu](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
