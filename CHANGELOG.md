@@ -68,3 +68,8 @@
 ## 0.6.1
 * Changed preview image
 * Updated README
+
+## 0.6.2
+* Changed preview image
+* Updated README
+* Updated LICENSE
