@@ -64,3 +64,7 @@
 
 ## 0.6.0
 * Version Bump
+
+## 0.6.1
+* Changed preview image
+* Updated README
