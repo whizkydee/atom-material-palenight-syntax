@@ -73,3 +73,7 @@
 * Changed preview image
 * Updated README
 * Updated LICENSE
+
+## 0.6.3
+* Version Bump
+* Changed preview image
