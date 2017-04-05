@@ -6,7 +6,7 @@
 ![JavaScript Preview](http://i.imgur.com/MWwYK9K.png)
 
 ## Installation
-If you're a terminal guru, Launch a console window and type:
+If you're a terminal guru, launch a window and type:
 ```shell
 apm install material-palenight-syntax
 ```
@@ -25,7 +25,7 @@ Some UI themes that work best with this syntax theme.
 [2]: https://atom.io/themes/pristine-ui
 [3]: https://atom.io/themes/one-dark-ui
 
-> The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator/).
+> The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator).
 
 Don't forget to star :star: :star:
 
