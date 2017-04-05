@@ -77,3 +77,19 @@
 ## 0.6.3
 * Version Bump
 * Changed preview image
+
+## 0.7.*
+* Skipped right down to `v1.0.0`
+
+## 0.8.*
+* Skipped right down to `v1.0.0`
+
+## 0.9.*
+* Skipped right down to `v1.0.0`
+
+## 1.0.0 - New milestone
+* Prepare for 1000+ Downloads :ok_hand: :raised_hands: :heart:
+* New main version :white_check_mark:
+* Changed preview image
+* README changes
+* Other minor changes
