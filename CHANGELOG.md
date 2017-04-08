@@ -93,3 +93,10 @@
 * Changed preview image
 * README changes
 * Other minor changes
+
+## 1.1.0
+* Added configuration tip for users using Atom Material UI :smirk:
+* Removed duplicate `:star:`
+* Updated Recommended UI Themes list :v:
+* Added some emoji fun :stuck_out_tongue_winking_eye:
+* Other minor changes
