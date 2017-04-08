@@ -21,6 +21,23 @@ Some UI themes that work best with this syntax theme.
 * [Pristine UI][2] &ndash; Great match.
 * [One Dark UI][3] &ndash; Cool.
 
+:v: For a better experience if you're using [Atom Material UI][1], add the following lines to your Atom Config (`config.cson`) file:
+
+``` coffee
+"atom-material-ui":
+  colors:
+    abaseColor: "#7e57c2"
+    accentColor: "#ffffff"
+    paintCursor: true
+    predefinedColor: "Purple"
+  tabs: {}
+  treeView:
+    blendTabs: true
+    compactList: true
+  ui:
+    panelContrast: true
+```
+
 [1]: https://atom.io/themes/atom-material-ui
 [2]: https://atom.io/themes/pristine-ui
 [3]: https://atom.io/themes/one-dark-ui
