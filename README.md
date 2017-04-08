@@ -18,8 +18,8 @@ Or, inside Atom's settings select Install and then search for this syntax theme.
 Some UI themes that work best with this syntax theme.
 
 * [Atom Material UI][1] &ndash; Awesome! 'twas made for it.
-* [Pristine UI][2] &ndash; Great match.
-* [One Dark UI][3] &ndash; Cool.
+* [Pristine UI][2] &ndash; It's gorgeous!
+* [One Dark UI][3] &ndash; Looks great.
 
 :v: For a better experience if you're using [Atom Material UI][1], add the following lines to your Atom Config (`config.cson`) file:
 
