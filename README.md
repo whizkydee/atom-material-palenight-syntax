@@ -4,6 +4,7 @@
 
 
 ![JavaScript Preview](http://i.imgur.com/KW2FQsb.png)
+The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator).
 
 ## Installation
 If you're a terminal guru:ok_hand:, launch a window and type:
@@ -41,8 +42,6 @@ Some UI themes that work best with this syntax theme.
 [1]: https://atom.io/themes/atom-material-ui
 [2]: https://atom.io/themes/pristine-ui
 [3]: https://atom.io/themes/one-dark-ui
-
-> The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator).
 
 Don't forget to star :star2:
 
