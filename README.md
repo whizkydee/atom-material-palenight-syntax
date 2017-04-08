@@ -6,7 +6,7 @@
 ![JavaScript Preview](http://i.imgur.com/KW2FQsb.png)
 
 ## Installation
-If you're a terminal guru, launch a window and type:
+If you're a terminal guru:ok_hand:, launch a window and type:
 ```shell
 apm install material-palenight-syntax
 ```
