@@ -100,3 +100,8 @@
 * Updated Recommended UI Themes list :v:
 * Added some emoji fun :stuck_out_tongue_winking_eye:
 * Other minor changes
+
+## 1.1.1
+* Changed `@syntax-cursor-color` to `#7e57c2` :white_check_mark:
+* Updated image info position
+* Other minor changes
