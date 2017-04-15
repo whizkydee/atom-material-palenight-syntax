@@ -1,0 +1,28 @@
+[data-grammar*="jsx"] {
+  .syntax--meta.syntax--brace,
+  .syntax--variable {
+    color: @grey;
+  }
+  .syntax--numeric {
+    color: @light-orange !important;
+  }
+  .syntax--property,
+  .syntax--method-call.syntax--with-arguments > .syntax--entity.syntax--function,
+  .syntax--meta.syntax--brace {
+    color: @sea-blue;
+  }
+  .syntax--object.syntax--console,
+  .syntax--round {
+    color: @grey !important;
+  }
+  .syntax--constant,
+  .syntax--entity.syntax--function {
+    color: @sweet-blue;
+  }
+  .syntax--boolean {
+    color: @lighter-red;
+  }
+  .syntax--dom {
+    color: @dark-yellow;
+  }
+}
