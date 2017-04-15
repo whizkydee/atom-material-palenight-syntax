@@ -105,3 +105,9 @@
 * Changed `@syntax-cursor-color` to `#7e57c2` :white_check_mark:
 * Updated image info position
 * Other minor changes
+
+## 1.2.0
+* Added syntax support for Babel :v:
+* Changed color of `.syntax--this` :ok_hand:
+* Updated README
+* Other minor changes
