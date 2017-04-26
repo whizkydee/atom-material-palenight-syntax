@@ -111,3 +111,9 @@
 * Changed color of `.syntax--this` :ok_hand:
 * Updated README
 * Other minor changes
+
+## 1.3.0
+* Renamed `babel.less` to `jsx.less` :white_check_mark:
+* Changed color of `syntax--assignment` for CoffeeScript :cool:
+* Added `@awesome` to syntax-variables :ok_hand:
+* Other minor changes
