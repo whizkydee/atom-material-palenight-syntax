@@ -115,5 +115,21 @@
 ## 1.3.0
 * Renamed `babel.less` to `jsx.less` :white_check_mark:
 * Changed color of `syntax--assignment` for CoffeeScript :cool:
-* Added `@awesome` to syntax-variables :ok_hand:
+* Added `@so-awesome` to syntax-variables :ok_hand:
+* Other minor changes
+
+## 1.4.0 - Awesome Tweaks
+* Renamed second `@awesome` variable to `@so-awesome`
+* Added color for `.syntax--variable.syntax--language` which covers keywords like `null`, `arguments` etc.
+* Improved the specificity of `.syntax--null`
+* Changed the color of commas wrapped in arguments
+* Made coloring of punctuation in JavaScript functions more consistent
+* Changed the color of text wrapped in JavaScript module imports
+* Changed the color of `.syntax--variable` in JavaScript
+* Added more support for JSDoc in JavaScript comments
+* Lightened `@fading-blue` color
+* Added `@slight-yellow` variable to syntax-variables
+* Changed the color of `.syntax--assignment` in CoffeeScript
+* Changed the color of active cursor lines
+* Increased border width by .5 for the cursor
 * Other minor changes
