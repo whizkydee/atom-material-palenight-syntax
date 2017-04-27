@@ -1,3 +1,6 @@
+.syntax--variable.syntax--language {
+  color: @light-red !important;
+}
 .syntax--variable.syntax--parameter.syntax--function {
   color: @off-white;
 }
@@ -26,8 +29,8 @@
 .syntax--none {
   color: @fading-white;
 }
-span.syntax--null {
-  color: @lighter-red;
+.syntax--null {
+  color: @lighter-red !important;
 }
 .syntax--keyword.syntax--operator {
   color: @purple;
@@ -69,6 +72,9 @@ span.syntax--null {
 }
 .syntax--storage {
   color: @purple;
+}
+.syntax--arguments .syntax--comma {
+  color: @off-white;
 }
 .syntax--support.syntax--function,
 .syntax--keyword.syntax--operator,
