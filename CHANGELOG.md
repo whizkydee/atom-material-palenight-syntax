@@ -133,3 +133,6 @@
 * Changed the color of active cursor lines
 * Increased border width by .5 for the cursor
 * Other minor changes
+
+## 1.4.1
+* Version Bump :smirk:
