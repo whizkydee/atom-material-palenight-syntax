@@ -136,3 +136,6 @@
 
 ## 1.4.1
 * Version Bump :smirk:
+
+## 1.4.2
+* Version Bump :ok_hand:
