@@ -144,4 +144,5 @@
 * Made punctuation colors more uniform
 * Updated README
 * Updated image in README
+* Updated invisible character color
 * Other minor changes
