@@ -137,5 +137,11 @@
 ## 1.4.1
 * Version Bump :smirk:
 
-## 1.4.2
+## 1.4.3
 * Version Bump :ok_hand:
+
+## 1.4.4
+* Made punctuation colors more uniform
+* Updated README
+* Updated image in README
+* Other minor changes
