@@ -146,3 +146,6 @@
 * Updated image in README
 * Updated invisible character color
 * Other minor changes
+
+## 1.4.5
+* Version Bump
