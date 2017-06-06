@@ -1,5 +1,6 @@
 {
   "name": "material-palenight-syntax",
+  "publisher": "whizkydee",
   "theme": "syntax",
   "version": "1.4.5",
   "description": "An elegant and minimal material syntax theme for Atom",
