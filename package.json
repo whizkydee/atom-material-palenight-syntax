@@ -15,6 +15,9 @@
     "minimal"
   ],
   "repository": "https://github.com/whizkydee/atom-material-palenight-syntax",
+  "bugs": {
+		"url": "https://github.com/whizkydee/atom-material-palenight-syntax/issues"
+	},
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
