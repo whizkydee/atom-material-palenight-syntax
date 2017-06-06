@@ -14,7 +14,10 @@
     "elegant",
     "minimal"
   ],
-  "repository": "https://github.com/whizkydee/atom-material-palenight-syntax",
+  "repository": {
+    "url": "https://github.com/whizkydee/atom-material-palenight-syntax",
+    "type": "git"
+  },
   "bugs": {
 		"url": "https://github.com/whizkydee/atom-material-palenight-syntax/issues"
 	},
