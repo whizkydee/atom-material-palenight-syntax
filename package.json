@@ -2,7 +2,7 @@
   "name": "material-palenight-syntax",
   "publisher": "whizkydee",
   "theme": "syntax",
-  "version": "1.4.5",
+  "version": "1.5.0",
   "description": "An elegant and minimal material syntax theme for Atom",
   "keywords": [
     "syntax",
@@ -19,8 +19,8 @@
     "type": "git"
   },
   "bugs": {
-		"url": "https://github.com/whizkydee/atom-material-palenight-syntax/issues"
-	},
+    "url": "https://github.com/whizkydee/atom-material-palenight-syntax/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
