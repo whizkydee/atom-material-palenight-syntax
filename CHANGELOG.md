@@ -149,3 +149,23 @@
 
 ## 1.4.5
 * Version Bump
+
+## 1.5.0 - Juicy
+* Grouped syntax color variables
+* Updated color for specific variables in **CoffeeScript**
+* Added color for entity name tags in **CSS**
+* Added color for entity name tags in **SASS**
+* Added color for entity name tags in **LESS**
+* Added color for **PHP** `$GLOBAL` variable
+* Added color for variables scoped under **Sass** at-rules
+* Improved syntax support for **Python (punctuations, function calls, function arguments, function parameters)**
+* Improved syntax support for **C# (classes, namespaces, variables)**
+* Improved support for **TypeScript**
+* Improved support for **Ruby**
+* Improved support for **React**
+* Added color for `.syntax--markup.syntax--raw` in **Markdown**
+* Added color for support variables globally `.syntax--support.syntax--variable`
+* Added color for keyframes parameters
+* Updated some global styles
+* Additions to `package.json` file
+* Other minor changes
