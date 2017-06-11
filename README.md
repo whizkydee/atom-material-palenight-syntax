@@ -2,7 +2,7 @@
 
 :new_moon: An elegant and minimal material syntax theme for Atom.
 
-![Theme Preview](http://i.imgur.com/L7BJvfv.png)
+![Theme Preview](http://i.imgur.com/buO6PTX.png)
 
 _Shown with [Atom Material UI][1]. The fonts used in the screenshot are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](http://www.typography.com/fonts/operator)._
 
