@@ -169,3 +169,12 @@
 * Updated some global styles
 * Additions to `package.json` file
 * Other minor changes
+
+## 1.5.1
+* Added color for `.syntax--keyword.syntax--other.syntax--unit` globally
+* Added color for tag references in stylesheets
+* Arranged language files import alphabetically
+* Updated tweak snippet for Atom Material UI users
+* Added tweak snippet for Operator Mono users
+* Updated preview image
+* Other minor changes
