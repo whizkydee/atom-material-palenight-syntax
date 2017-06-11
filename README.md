@@ -36,9 +36,10 @@ Some UI themes that work best with this syntax theme.
   tabs: {}
   treeView:
     blendTabs: true
-    compactList: true
+    compactList: false
   ui:
-    panelContrast: true
+    panelShadows: true
+```
 ```
 
 [1]: https://atom.io/themes/atom-material-ui
