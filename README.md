@@ -40,6 +40,27 @@ Some UI themes that work best with this syntax theme.
   ui:
     panelShadows: true
 ```
+
+Also, if you have [Operator Mono](http://www.typography.com/fonts/operator) font installed, add the following lines to your stylesheet (styles.less) file to experience the beauty of its italic style:
+
+``` css
+atom-text-editor {
+  -webkit-font-feature-settings: "liga" off, "calt" off; /* very mandatory */
+  text-rendering: optimizeLegibility; /* cool */
+  font-weight: normal; /* for specificity */
+  line-height: 1.7; /* feel free to adjust */
+}
+.syntax--doctype, .syntax--entity.syntax--other.syntax--attribute-name, .syntax--source.syntax--js.syntax--jsx > .syntax--keyword.syntax--control.syntax--flow.syntax--js,
+.syntax--punctuation.syntax--section.syntax--embedded, .syntax--keyword:not(.syntax--logical):not(.syntax--arithmetic):not(.syntax--bitwise):not(.syntax--increment):not(.syntax--ternary):not(.syntax--comparison),
+.syntax--meta.syntax--structure.syntax--dictionary.syntax--key.syntax--json,
+.syntax--storage, .syntax--italic, .syntax--language, .syntax--type .syntax--function,
+.syntax--type.syntax--function, .syntax--storage.syntax--type.syntax--class, .syntax--type.syntax--var, .syntax--meta.syntax--parameter, .syntax--assignment.syntax--coffee, .syntax--keyword.syntax--control, .syntax--modifier, .syntax--boolean, .syntax--null,
+.syntax--this, .syntax--comment {
+  font-family: "Operator Mono Light"; /* varies with font name */
+  vertical-align: inherit; /* just keep it */
+  font-style: italic; /* mandatory */
+  line-height: 10px; /* Optional */
+}
 ```
 
 [1]: https://atom.io/themes/atom-material-ui
