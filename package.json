@@ -8,11 +8,11 @@
     "syntax",
     "theme",
     "material",
-    "material design",
     "palenight",
     "night",
     "elegant",
-    "minimal"
+    "minimal",
+    "dark"
   ],
   "repository": {
     "url": "https://github.com/whizkydee/atom-material-palenight-syntax",
