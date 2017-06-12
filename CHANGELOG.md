@@ -178,3 +178,10 @@
 * Added tweak snippet for Operator Mono users
 * Updated preview image
 * Other minor changes
+
+## 1.5.2
+* Added color for **ES6** template literals backtics
+* Updated keywords in **package.json** file
+* Moved VSCode theme link to bottom in **README.md**
+* Removed duplicate selectors in **syntax.less**
+* Linked Operator Mono tweaks section to GitHub gist
