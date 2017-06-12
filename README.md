@@ -11,9 +11,9 @@ If you're a terminal guru :ghost:, launch a window and type:
 ```shell
 apm install material-palenight-syntax
 ```
-**There's also a [VS Code version](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) of this theme created by [me](https://twitter.com/whizkydee).**
-
 Or, inside Atom's settings select Install and then search for this syntax theme.
+
+**There's also a [VS Code version](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) of this theme created by [me](https://twitter.com/whizkydee).**
 
 ## Recommended UI Themes
 
