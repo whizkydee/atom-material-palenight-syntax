@@ -189,3 +189,6 @@
 ## 1.5.3
 * Added coloring for **template strings** globally as noted by [@codebeast](https://twitter.com/codebeast)
 * Fixed cause of deprecation warning
+
+## 1.5.4
+* Fixed deprecated selector in **react.less**
