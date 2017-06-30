@@ -185,3 +185,7 @@
 * Moved VSCode theme link to bottom in **README.md**
 * Removed duplicate selectors in **syntax.less**
 * Linked Operator Mono tweaks section to GitHub gist
+
+## 1.5.3
+* Added coloring for **template strings** globally as noted by [@codebeast](https://twitter.com/codebeast)
+* Fixed cause of deprecation warning
