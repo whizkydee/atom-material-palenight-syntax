@@ -192,3 +192,6 @@
 
 ## 1.5.4
 * Fixed deprecated selector in **react.less**
+
+## 1.5.5
+* Version Bump
