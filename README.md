@@ -13,7 +13,7 @@ apm install material-palenight-syntax
 ```
 Or, inside Atom's settings select Install and then search for this syntax theme.
 
-**There's also a [VS Code version](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) of this theme created by [me](https://twitter.com/whizkydee).**
+**There's also a [VS Code version](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) of this theme created by [me](https://twitter.com/mrolaolu).**
 
 ## Recommended UI Themes
 
@@ -49,7 +49,7 @@ Also, if you have [Operator Mono](http://www.typography.com/fonts/operator) font
 [3]: https://atom.io/themes/one-dark-ui
 
 ## Wanna Contribute?
-Feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any suggestions or irregular syntax highlighting of this theme with an attached screenshot or source file where necessary.
+Feel free to report [here](https://github.com/whizkydee/material-palenight-syntax/issues) any suggestions or irregular syntax highlighting of this theme with an attached screenshot or source file where necessary. Also, contributions to the codebase are very much welcome.
 
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/atom-material-palenight-syntax/blob/master/LICENSE.md).
