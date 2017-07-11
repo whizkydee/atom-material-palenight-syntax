@@ -195,3 +195,7 @@
 
 ## 1.5.5
 * Version Bump
+
+## 1.5.6
+* Updated my Twitter URL in **README**
+* Added some coloring for **YAML** tags
