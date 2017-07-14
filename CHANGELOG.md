@@ -197,5 +197,6 @@
 * Version Bump
 
 ## 1.5.6
+* Added coloring for **Ruby** hashkey constants
 * Updated my Twitter URL in **README**
 * Added some coloring for **YAML** tags
