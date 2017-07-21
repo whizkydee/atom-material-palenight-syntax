@@ -1,6 +1,6 @@
 # Atom Material Palenight Syntax
 
-:new_moon: An elegant and minimal material syntax theme for Atom.
+:new_moon: An elegant and juicy material-like theme for Atom.
 
 ![Theme Preview](http://i.imgur.com/buO6PTX.png)
 
