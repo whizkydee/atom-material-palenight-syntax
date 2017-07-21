@@ -187,7 +187,7 @@
 * Linked Operator Mono tweaks section to GitHub gist
 
 ## 1.5.3
-* Added coloring for **template strings** globally as noted by [@codebeast](https://twitter.com/codebeast)
+* Added coloring for **template strings** globally as noted by @codebeast
 * Fixed cause of deprecation warning
 
 ## 1.5.4
@@ -200,3 +200,7 @@
 * Added coloring for **Ruby** hashkey constants
 * Updated my Twitter URL in **README**
 * Added some coloring for **YAML** tags
+
+## 1.5.7
+* Updated theme **description** globally
+* Updated **Material UI** tweak
