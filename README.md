@@ -30,10 +30,11 @@ Some UI themes that work best with this syntax theme.
 "atom-material-ui":
   colors:
     abaseColor: "#7e57c2"
-    accentColor: "#ffffff"
     paintCursor: true
     predefinedColor: "Purple"
-  tabs: {}
+  tabs:
+    compactTabs: true
+    noTabMinWidth: true
   treeView:
     blendTabs: true
     compactList: false
