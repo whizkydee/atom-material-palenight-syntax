@@ -55,4 +55,4 @@ Feel free to report [here](https://github.com/whizkydee/material-palenight-synta
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/atom-material-palenight-syntax/blob/master/LICENSE.md).
 
-Designed with :heart: by [Olaoluwa](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
+Designed with :hear️t: by **[Olaoluwa](https://twitter.com/mrolaolu)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Follow him on **[GitHub](https://github.com/whizkydee)**
